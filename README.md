@@ -9,3 +9,10 @@
 
 一度に読み込めるテキストは30文字です｡
 それを超えると変な文字が表示されます｡
+
+くわしくはこちらを御覧ください
+http://ghz2000.com/wordpress/?p=665
+
+
+mbed 版ライブラリもあります｡
+https://developer.mbed.org/users/ghz2000/code/libSeg14Display/
